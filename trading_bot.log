@@ -1,0 +1,29 @@
+2026-05-01 15:10:42,273 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:10:42,274 - INFO - Attempting BUY STOP_LIMIT for 0.002 BTCUSDT
+2026-05-01 15:10:43,316 - ERROR - Binance API Error: APIError(code=-2021): Order would immediately trigger.
+2026-05-01 15:11:21,837 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:11:21,838 - INFO - Attempting SELL STOP_LIMIT for 0.002 BTCUSDT
+2026-05-01 15:11:22,111 - ERROR - Binance API Error: APIError(code=-4184): Limit price can't be lower than 28500
+2026-05-01 15:11:36,026 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:11:36,027 - INFO - Attempting BUY STOP_LIMIT for 0.002 BTCUSDT
+2026-05-01 15:21:57,559 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:21:57,559 - INFO - Attempting BUY MARKET for 0.002 BTCUSDT
+2026-05-01 15:21:57,796 - INFO - Success! Order ID: 13096095082 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
+2026-05-01 15:22:37,723 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:22:37,723 - INFO - Attempting SELL LIMIT for 0.002 BTCUSDT
+2026-05-01 15:22:37,929 - INFO - Success! Order ID: 13096097349 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
+2026-05-01 15:23:56,082 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:23:56,082 - INFO - Attempting BUY STOP_LIMIT for 0.002 BTCUSDT
+2026-05-01 15:23:56,304 - ERROR - Binance API Error: Invalid orderType.
+2026-05-01 15:25:24,038 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:25:24,038 - INFO - Attempting BUY STOP_LIMIT for 0.002 BTCUSDT
+2026-05-01 15:25:24,374 - INFO - Success! Order ID: None | Status: None | Executed Qty: None | Avg Price: None
+2026-05-01 15:25:48,984 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:25:48,985 - INFO - Attempting BUY MARKET for 0.002 BTCUSDT
+2026-05-01 15:25:49,293 - INFO - Success! Order ID: 13096106165 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
+2026-05-01 15:25:57,440 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:25:57,440 - INFO - Attempting SELL LIMIT for 0.002 BTCUSDT
+2026-05-01 15:25:57,689 - INFO - Success! Order ID: 13096106471 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
+2026-05-01 15:26:08,174 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
+2026-05-01 15:26:08,175 - INFO - Attempting BUY STOP_LIMIT for 0.002 BTCUSDT
+2026-05-01 15:26:08,513 - INFO - Success! Order ID: None | Status: None | Executed Qty: None | Avg Price: None
