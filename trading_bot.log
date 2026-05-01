@@ -13,8 +13,6 @@
 2026-05-01 15:22:37,723 - INFO - Attempting SELL LIMIT for 0.002 BTCUSDT
 2026-05-01 15:22:37,929 - INFO - Success! Order ID: 13096097349 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
 2026-05-01 15:23:56,082 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
-2026-05-01 15:23:56,082 - INFO - Attempting BUY STOP_LIMIT for 0.002 BTCUSDT
-2026-05-01 15:23:56,304 - ERROR - Binance API Error: Invalid orderType.
 2026-05-01 15:25:24,038 - INFO - Binance Futures Testnet Client initialized at https://testnet.binancefuture.com/fapi/v1
 2026-05-01 15:25:24,038 - INFO - Attempting BUY STOP_LIMIT for 0.002 BTCUSDT
 2026-05-01 15:25:24,374 - INFO - Success! Order ID: None | Status: None | Executed Qty: None | Avg Price: None
